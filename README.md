@@ -24,4 +24,7 @@ A simple Python program that takes a student's score, calculates their grade and
 
 1. Make sure Python is installed on your system
 2. Clone the repository or download the `.py` file
-3. Open terminal or
+3. Open terminal or command prompt and run:
+
+```bash
+python grading_system.py
